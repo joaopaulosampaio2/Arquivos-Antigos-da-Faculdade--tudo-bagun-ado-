@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Controle
+comment1.params=
+comment1.target=Controle()
+comment10.params=nome
+comment10.target=java.lang.String\ buscaprof(java.lang.String)
+comment2.params=nome\ salario
+comment2.target=void\ CadastraEmpregadoMensalista(java.lang.String,\ double)
+comment3.params=nome\ salario\ comissaoVenda\ QuantVendida
+comment3.target=void\ CadastraEmpregadoComissionado(java.lang.String,\ double,\ double,\ int)
+comment4.params=nome\ salario\ horas
+comment4.target=void\ CadastraEmpregadoHorista(java.lang.String,\ double,\ double)
+comment5.params=nome\ salario\ quantProduz
+comment5.target=void\ CadastraEmpregadoProducao(java.lang.String,\ double,\ int)
+comment6.params=nome
+comment6.target=java.lang.String\ Info(java.lang.String)
+comment7.params=nome\ salario\ titulacao
+comment7.target=void\ CadastroProf(java.lang.String,\ double,\ java.lang.String)
+comment8.params=nome\ nomeProf
+comment8.target=void\ CadastroDisciplina(java.lang.String,\ java.lang.String)
+comment9.params=nome
+comment9.target=java.lang.String\ buscaDisciplina(java.lang.String)
+numComments=11

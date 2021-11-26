@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CadastrodeConsultas
+comment1.params=
+comment1.target=CadastrodeConsultas()
+comment2.params=Nome\ Matricula\ Dependentes\ ano\ Valor\ Plano
+comment2.target=void\ addConsulta(java.lang.String,\ int,\ int,\ int,\ double,\ int)
+comment3.params=Plano
+comment3.target=java.lang.String\ ListarConsultas(int)
+comment4.params=Plano
+comment4.target=int\ NumeroPlano(int)
+comment5.params=Plano
+comment5.target=double\ valorConsultas(int)
+numComments=6

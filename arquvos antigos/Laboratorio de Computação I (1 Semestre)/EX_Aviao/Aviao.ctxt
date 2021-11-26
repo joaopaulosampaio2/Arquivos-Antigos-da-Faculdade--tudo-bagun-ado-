@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Aviao
+comment0.text=\r\n\ @author\ (Jo\u00E3o\ Paulo)\r\n\ @version\ (1.0)\r\n
+comment1.params=iden\ quantM
+comment1.target=Aviao(java.lang.String,\ int)
+comment10.params=
+comment10.target=void\ embarcar()
+comment11.params=
+comment11.target=void\ desembarcar()
+comment2.params=
+comment2.target=void\ decolar()
+comment3.params=
+comment3.target=void\ pousar()
+comment4.params=
+comment4.target=java.lang.String\ getIdentificador()
+comment5.params=
+comment5.target=char\ getEstado()
+comment6.params=
+comment6.target=int\ getQuantidadePassageiros()
+comment7.params=id
+comment7.target=void\ setIdentificador(java.lang.String)
+comment8.params=qm
+comment8.target=void\ setQuantidadeMaxima(int)
+comment9.params=
+comment9.target=int\ getQuantidadeMaxima()
+numComments=12

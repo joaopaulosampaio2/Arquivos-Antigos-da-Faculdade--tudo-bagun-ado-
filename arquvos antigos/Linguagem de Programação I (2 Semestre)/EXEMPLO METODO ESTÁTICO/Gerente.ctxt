@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Gerente
+comment1.params=nome\ salario\ bonus
+comment1.target=Gerente(java.lang.String,\ double,\ double)
+comment2.params=
+comment2.target=double\ getSalario()
+numComments=3

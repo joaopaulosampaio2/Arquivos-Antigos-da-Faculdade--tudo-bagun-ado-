@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Consulta
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ Consulta\ aqui.\r\n\ \r\n\ @author\ (Lucas\ Moyses)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=nome\ matricula\ nDependentes\ ano\ valorConsulta
+comment1.target=Consulta(java.lang.String,\ int,\ int,\ int,\ double)
+comment10.params=
+comment10.target=double\ getValorConsulta()
+comment11.params=NValor
+comment11.target=void\ setValorConsulta(double)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=novoNome
+comment3.target=void\ setNome(java.lang.String)
+comment4.params=
+comment4.target=int\ getMatricula()
+comment5.params=novaM
+comment5.target=void\ setMatricula(int)
+comment6.params=
+comment6.target=int\ getnDependentes()
+comment7.params=novaM
+comment7.target=void\ setnDependentes(int)
+comment8.params=
+comment8.target=int\ getAno()
+comment9.params=ano
+comment9.target=void\ setAno(int)
+numComments=12

@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Professor
+comment0.text=\r\n\ @author\ (Jo\u00E3o\ Paulo)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=matricula\ salario\ nome
+comment1.target=Professor(int,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=int\ getMatricula()
+comment4.params=
+comment4.target=double\ getSalario()
+comment5.params=novoNome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=novoMatricula
+comment6.target=void\ setMatricula(int)
+comment7.params=novoSalario
+comment7.target=void\ setSalario(double)
+numComments=8

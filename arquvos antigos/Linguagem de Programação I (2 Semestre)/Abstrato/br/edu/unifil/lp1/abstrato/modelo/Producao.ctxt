@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Producao
+comment1.params=nome\ salario\ quantProduz
+comment1.target=Producao(java.lang.String,\ double,\ int)
+comment2.params=
+comment2.target=double\ getGanhoMensal()
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CadastroDeConsultas
+comment0.text=\r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=
+comment1.target=CadastroDeConsultas()
+comment2.params=c
+comment2.target=void\ incluirConsulta(br.edu.unifil.lp1.consulta.modelo.Consulta)
+comment3.params=
+comment3.target=void\ matriculaPaciente()
+comment4.params=
+comment4.target=void\ totalConsultas()
+comment5.params=
+comment5.target=void\ valorConsultas()
+numComments=6

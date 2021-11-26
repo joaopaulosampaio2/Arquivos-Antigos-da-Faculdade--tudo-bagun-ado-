@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Produ\u00E7\u00E3o
+comment1.params=quantProduzida\ salario\ nome
+comment1.target=Produ\u00E7\u00E3o(double,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=double\ getQuantProduzida()
+comment3.params=novaQuantProduzida
+comment3.target=void\ setQuantProduzida(double)
+comment4.params=
+comment4.target=double\ getGanhoMensal()
+numComments=5

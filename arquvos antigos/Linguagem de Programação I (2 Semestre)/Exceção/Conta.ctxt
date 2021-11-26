@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Conta
+comment1.params=numero
+comment1.target=Conta(int)
+comment2.params=valor
+comment2.target=void\ saca(double)
+comment2.text=\r\n\ \ \ \ public\ boolean\ saca(double\ valor)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ if(valor\ >this.saldo)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ false;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ else\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ this.saldo\ \=\ this.saldo\ -\ valor;\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ true;\r\n\ \ \ \ \ \ \ \ }\r\n
+numComments=3

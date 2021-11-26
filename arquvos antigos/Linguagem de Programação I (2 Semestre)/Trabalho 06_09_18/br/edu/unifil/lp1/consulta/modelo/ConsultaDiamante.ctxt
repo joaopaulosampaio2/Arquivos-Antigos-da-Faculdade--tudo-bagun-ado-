@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ConsultaDiamante
+comment1.params=Nome\ Matricula\ Dependentes\ ano\ Valor\ Plano
+comment1.target=ConsultaDiamante(java.lang.String,\ int,\ int,\ int,\ double,\ int)
+comment2.params=
+comment2.target=double\ getDesconto40()
+numComments=3

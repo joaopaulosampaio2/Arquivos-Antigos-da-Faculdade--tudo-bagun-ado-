@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ProjetoSoftware
+comment0.text=\r\n\ @author\ (Jo\u00E3o\ Paulo)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=n\ c\ h\ cc
+comment1.target=ProjetoSoftware(java.lang.String,\ double,\ int,\ double)
+comment2.params=
+comment2.target=double\ getCustoAtual()
+numComments=3

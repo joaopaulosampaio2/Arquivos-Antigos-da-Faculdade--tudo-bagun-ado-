@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=controle
+comment1.params=
+comment1.target=controle()
+comment10.params=
+comment10.target=java.lang.String\ listarEmpregado()
+comment11.params=
+comment11.target=java.lang.String\ listarDepartamento()
+comment2.params=nome\ salario
+comment2.target=void\ cadastrarEmpregado(java.lang.String,\ double)
+comment3.params=nome
+comment3.target=void\ excluirEmpregado(java.lang.String)
+comment4.params=nome
+comment4.target=void\ excluirDepartamento(java.lang.String)
+comment5.params=id\ salario
+comment5.target=java.lang.String\ alterarSalario(int,\ double)
+comment6.params=nome
+comment6.target=void\ cadastrarDepartamento(java.lang.String)
+comment7.params=departamento\ matricula
+comment7.target=void\ associarEmp(java.lang.String,\ int)
+comment8.params=departamento\ matricula
+comment8.target=void\ desassociarEmp(java.lang.String,\ int)
+comment9.params=departamento
+comment9.target=java.lang.String\ listarEmpregado(java.lang.String)
+numComments=12

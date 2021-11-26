@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ProfessorHorista
+comment0.text=\r\n\ @author\ (Jo\u00E3o\ Paulo)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=matricula\ salario\ nome\ h
+comment1.target=ProfessorHorista(int,\ double,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getHoras()
+comment3.params=h
+comment3.target=void\ setHoras(int)
+comment4.params=
+comment4.target=double\ getSalario()
+numComments=5

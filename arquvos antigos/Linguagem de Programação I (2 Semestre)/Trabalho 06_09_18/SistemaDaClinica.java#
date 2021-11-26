@@ -1,0 +1,86 @@
+package br.edu.unifil.lp1.consulta.modelo.controle.vis�o;
+
+import java.util.Scanner;
+import br.edu.unifil.lp1.consulta.modelo.controle.*;
+
+
+public class SistemaDaClinica
+{
+    
+    public static void main(String[] Args)
+    {
+        Scanner teclado = new Scanner(System.in);
+        CadastrodeConsultas CC = new CadastrodeConsultas();
+        int opcao = 0;
+        while(opcao!= 9){
+            System.out.println("1 - Agendar Consulta ");
+            System.out.println("2 - Ver Consultas ");
+            System.out.println("3 - Ver Número de Consultas por Plano");
+            System.out.println("4 - Ver o Valor Total de Consultas por Plano");
+            System.out.println("9 - Sair ");
+            
+            opcao = teclado.nextInt();
+            teclado.nextLine();
+            
+            String Nome;
+            int Matricula;
+            int Dependentes;
+            int AnoInclusao;
+            double Valor;
+            int Plano;
+            
+            
+            switch(opcao){
+                case 1 : System.out.println("Informe o nome para a consulta: ");
+                         Nome = teclado.nextLine();
+                         System.out.println("Informe a matricula: ");
+                         Matricula = teclado.nextInt();
+                         System.out.println("Informe o número de dependentes: ");
+                         Dependentes = teclado.nextInt();
+                         System.out.println("Informe o ano da inclusão: ");
+                         AnoInclusao = teclado.nextInt();
+                         System.out.println("Informe o valor da consulta: ");
+                         Valor = teclado.nextDouble();
+                         System.out.println("Informe o seu plano: "+'\n'+"1-Prata"+'\n'+"2-Ouro"+'\n'+"3-Diamante"+'\n'+"4-Familia");
+                         Plano = teclado.nextInt();
+                         CC.addConsulta(Nome,Matricula,Dependentes,AnoInclusao,Valor,Plano);
+                         break;
+                case 2 : System.out.println("Informe o seu plano: "+'\n'+"1-Prata"+'\n'+"2-Ouro"+'\n'+"3-Diamante"+'\n'+"4-Familia");
+                         Plano = teclado.nextInt();
+                         if(Plano == 1){
+                             System.out.println(CC.ListarConsultas(Plano));
+                         }
+                         if(Plano == 2){
+                             System.out.println(CC.ListarConsultas(Plano));
+                         }
+                         if(Plano == 3){
+                             System.out.println(CC.ListarConsultas(Plano));
+                         }
+                         if(Plano == 4){
+                             System.out.println(CC.ListarConsultas(Plano));
+                         }
+                         break;
+                case 3 : System.out.println("Informe o seu plano: "+'\n'+"1-Prata"+'\n'+"2-Ouro"+'\n'+"3-Diamante"+'\n'+"4-Familia");
+                         Plano = teclado.nextInt();
+                         if(Plano == 1){
+                             System.out.println(CC.NumeroPlano(Plano));
+                         }
+                         if(Plano == 2){
+                             System.out.println(CC.NumeroPlano(Plano));
+                         }
+                         if(Plano == 3){
+                             System.out.println(CC.NumeroPlano(Plano));
+                         }
+                         if(Plano == 4){
+                             System.out.println(CC.NumeroPlano(Plano));
+                         }
+                         break;
+                case 4 : System.out.println("Informe o seu plano: "+'\n'+"1-Prata"+'\n'+"2-Ouro"+'\n'+"3-Diamante"+'\n'+"4-Familia");
+                         Plano = teclado.nextInt();
+                         CC.valorConsultas(Plano);
+                         break;
+                default: System.out.println("Opção Errada");         
+            }
+        }
+    }
+}

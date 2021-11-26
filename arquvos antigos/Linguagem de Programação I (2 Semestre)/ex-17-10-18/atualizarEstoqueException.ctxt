@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=atualizarEstoqueException
+comment0.text=\r\n\ Escreva\ a\ descri\u00E7\u00E3o\ da\ classe\ atulizarEstoque\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (n\u00FAmero\ de\ vers\u00E3o\ ou\ data)\r\n
+comment1.params=message
+comment1.target=atualizarEstoqueException(java.lang.String)
+numComments=2

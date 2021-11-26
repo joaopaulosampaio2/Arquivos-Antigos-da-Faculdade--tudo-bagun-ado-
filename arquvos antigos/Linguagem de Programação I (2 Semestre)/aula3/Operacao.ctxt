@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Operacao
+comment0.text=\r\n\ @author\ (Jo\u00E3o\ Paulo)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=n1\ n2
+comment1.target=int\ soma(int,\ int)
+comment2.params=n1\ n2\ n3
+comment2.target=int\ soma(int,\ int,\ int)
+comment3.params=n1\ n2
+comment3.target=double\ soma(double,\ double)
+comment4.params=n1\ n2\ n3
+comment4.target=double\ soma(double,\ double,\ double)
+comment5.params=num
+comment5.target=int\ soma(int[])
+comment6.params=n1\ n2
+comment6.target=int\ maiorNumero(int,\ int)
+comment7.params=n1\ n2\ n3
+comment7.target=int\ maiorNumero(int,\ int,\ int)
+numComments=8

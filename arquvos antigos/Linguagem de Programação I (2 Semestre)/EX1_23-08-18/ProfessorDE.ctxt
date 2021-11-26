@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ProfessorDE
+comment0.text=\r\n\ @author\ (Jo\u00E3o\ Paulo)\ \r\n\ @version\ (1.0)\r\n
+comment1.params=matricula\ salario\ nome
+comment1.target=ProfessorDE(int,\ double,\ java.lang.String)
+comment2.params=licencaPremio
+comment2.target=void\ setLicencaPremio(int)
+comment3.params=
+comment3.target=int\ getLicencaPremio()
+numComments=4
